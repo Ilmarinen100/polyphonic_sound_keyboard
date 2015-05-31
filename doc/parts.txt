@@ -1,0 +1,7 @@
+Parts used for the project:
+ChipKit MAX32
+ChipKit IOShield (optional)
+SD-Card slot + SD-Card
+PS2 keyboard
+2x I2C DAC
+2x Amplifier
